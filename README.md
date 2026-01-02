@@ -9,24 +9,6 @@ bằng Python và Jupyter Notebook.
 - Jupyter Notebook
 - Pandas
 - Matplotlib
-- Seaborn
+- Numpy 
 
-##  Cấu trúc project
-├── notebooks/
-
-│ └── california_cities.ipynb
-
-├── data/
-
-│ └── california_cities.csv
-
-├── requirements.txt
-
-└── README.md
-
-
-##  Cách chạy
-```bash
-pip install -r requirements.txt
-jupyter notebook
 
